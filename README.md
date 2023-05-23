@@ -1,2 +1,2 @@
-# PrepCoures-Henry
-este es un repositorio de prueba del modulo 2 de henry
+proyecto de como clonar y descargar repositorio local 
+
